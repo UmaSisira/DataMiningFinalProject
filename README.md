@@ -6,7 +6,7 @@ This project investigates the relationship between public interest in specific c
 
 ### Analysis & Documentation
 * **DataMining_FinalReport.pdf**: A comprehensive three-page report detailing the project's title, methodology, key findings, and significance.
-* **DataMining_FinalPresentation.pptx**: Presentation slides summarizing the research goals, data visualizations, and conclusions.
+* **DataMining_FinalSlides.pptx**: Presentation slides summarizing the research goals, data visualizations, and conclusions.
 * **README.md**: This file, providing an overview of the project and its components.
 
 ### Code & Data
