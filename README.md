@@ -1,4 +1,5 @@
-# Wikipedia Traffic and Consumer Sentiment Analysis
+# When People Panic, Do They Google It First?
+Wikipedia Traffic and Consumer Sentiment Analysis
 
 This project investigates the relationship between public interest in specific crisis-related topics (measured via Wikipedia pageviews) and consumer confidence (measured by the University of Michigan Consumer Sentiment Index).
 
